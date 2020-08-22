@@ -1,1 +1,1 @@
-1. Ruby on Rails learning git
+1.  First test repo on the Complete Ruby on Rails Developre course.
