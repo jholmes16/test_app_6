@@ -1,1 +1,1 @@
-1. Git version control
+1. Ruby on Rails learning git
